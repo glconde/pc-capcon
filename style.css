@@ -34,6 +34,8 @@ body {
 .card h3 {
   margin: 0.75rem 0;
   font-size: 1.25rem;
+  background: #ffffff;
+  color: #000000;
 }
 
 .links a {
@@ -58,3 +60,10 @@ body {
   border-radius: 8px;
 }
 
+.page-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  font-weight: 600;
+  color: #333;
+}
